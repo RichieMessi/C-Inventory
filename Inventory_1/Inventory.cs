@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inventory_1
 {
-    class Inventory
+    class Inventory : IInventory 
     {
         Chess chess_1;
         Chess chess_2;
@@ -123,7 +123,6 @@ namespace Inventory_1
             {
                 if (game.getLostStatus() || !game.getCompletionStatus())
                 {
-                    Console.WriteLine(game.getName());
                     cost = cost + game.getCost();
                 }
             }
