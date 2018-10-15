@@ -1,0 +1,7 @@
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\bin\Debug\Inventory_1.exe.config
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\bin\Debug\Inventory_1.exe
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\bin\Debug\Inventory_1.pdb
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\obj\Debug\Inventory_1.csprojAssemblyReference.cache
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\obj\Debug\Inventory_1.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\obj\Debug\Inventory_1.exe
+C:\Users\coder\source\repos\Inventory_1\Inventory_1\obj\Debug\Inventory_1.pdb
